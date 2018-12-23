@@ -1,5 +1,5 @@
 {
 "version":"2.5.3",
-"changelog":"- Добавлены OTA обновления<br>- Исправлен краш при открытии папки после смены темы (более подробно ссылка)<br>- Переключение тем через нижнее меню стало более плавным<br>- Вернул редактирование по свайпу для папок",
-"link":"https://storage.googleapis.com/otaupdate/iMod%205.20%20Public%20Beta%205.apk"
+"changelog":"- Различные исправления и улучшения",
+"link":"https://github.com/JollyDeveleoper/notelint/blob/master/updates/app-release.apk?raw=true"
 }
