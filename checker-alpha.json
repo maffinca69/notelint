@@ -1,5 +1,5 @@
 {
-"version":"2.5.6",
-"changelog":"- Исправлен краш при открыти<br>- Исправлено перетаскивание карточек в поиске<br>- Для альфа версий сделал отдельный канал с ОТА",
-"link":""
+"version":"2.5.6.1",
+"changelog":"- Исправлен краш при открытии старых заметок",
+"link":"https://github.com/JollyDeveleoper/notelint/blob/master/updates/255-1.apk?raw=true"
 }
