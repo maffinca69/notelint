@@ -1,5 +1,5 @@
 {
-"version":"2.5.6.1",
-"changelog":"- Исправлен краш при открытии старых заметок",
-"link":"https://github.com/JollyDeveleoper/notelint/blob/master/updates/255-1.apk?raw=true"
+"version":"2.5.5-alpha2",
+"changelog":"- Исправил сохранение цвета при редактировании",
+"link":"https://github.com/JollyDeveleoper/notelint/blob/master/updates/267-1.apk?raw=true"
 }
