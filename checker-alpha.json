@@ -1,5 +1,5 @@
 {
-"version":"2.5.5-alpha3",
-"changelog":"- Исправил краш при выходе<br>- Различные исправления и улучшения",
-"link":"https://github.com/JollyDeveleoper/notelint/blob/master/updates/310-1.apk?raw=true"
+"version":"2.5.5-alpha4",
+"changelog":"- Изменил дизайн анализа<br>- Удалены лишние библиотеки<br>- Вроде немного улучшил быстродействие<br>- Вернул шорткаты<br>- Починил алерт при выборе цвета заметки",
+"link":"https://github.com/JollyDeveleoper/notelint/blob/master/updates/692-1.apk?raw=true"
 }
