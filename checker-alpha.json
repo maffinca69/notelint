@@ -1,5 +1,5 @@
 {
-"version":"2.5.5-alpha4",
-"changelog":"- Изменил дизайн анализа<br>- Удалены лишние библиотеки<br>- Вроде немного улучшил быстродействие<br>- Вернул шорткаты<br>- Починил алерт при выборе цвета заметки",
-"link":"https://github.com/JollyDeveleoper/notelint/blob/master/updates/692-1.apk?raw=true"
+"version":"2.5.6-alpha1",
+"changelog":"- Починил динамический текст<br>- Множество исправлений<br>- Улучшен перехват данных из домашнего экрана в редатор",
+"link":"https://github.com/JollyDeveleoper/notelint/blob/master/updates/1396-1.apk?raw=true"
 }
