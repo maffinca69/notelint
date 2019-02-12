@@ -1,5 +1,5 @@
 {
-"version":"2.5.5",
-"changelog":"- Новая база данных<br>- Возможность выбрать цвет заметки<br>- Множество исправлений и улучшений<br>- Переделан анализ",
-"link":"https://github.com/JollyDeveleoper/notelint/blob/master/updates/1217-1.apk?raw=true"
+"version":"2.5.6",
+"changelog":"- Исправлен курсор в редакторе при прокрутке<br>- Исправлено дублирование заметок<br>- Исправлен диалог с удалением напоминания<br>- Различные улучшения и исправления",
+"link":"https://github.com/JollyDeveleoper/notelint/blob/master/updates/1430-1.apk?raw=true"
 }
