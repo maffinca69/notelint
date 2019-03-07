@@ -1,5 +1,5 @@
 {
-"version":"2.5.7-alpha2",
-"changelog":"- Добавил лицензии",
-"link":"https://github.com/JollyDeveleoper/notelint/releases/download/alpha/Notelint.2.5.7_alpha-2.apk"
+"version":"2.5.7-alpha4",
+"changelog":"- Добавил синхронизацию с google диском<br>- Подправил цвета в темной теме",
+"link":"https://github.com/JollyDeveleoper/notelint/releases/download/pre-release/Notelint.2.5.7.alpha4.apk"
 }
