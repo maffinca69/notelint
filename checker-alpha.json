@@ -1,5 +1,5 @@
 {
-"version":"2.5.7-alpha5",
-"changelog":"- Различные улучшения по синхронизации",
-"link":"https://github.com/JollyDeveleoper/notelint/releases/download/pre-release/Notelint.2.5.7.alpha5.apk"
+"version":"2.5.7-alpha6",
+"changelog":"- Формат дат получил обновление до версии 2.0<br>- Значительно улучшена производительность<br>- Множество мелких исправлений и улучшений",
+"link":"https://github.com/JollyDeveleoper/notelint/releases/download/alpha6/Notelint.2.5.7.alpha6.apk"
 }
