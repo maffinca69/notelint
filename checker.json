@@ -1,5 +1,5 @@
 {
-"version":"2.5.6",
-"changelog":"- Исправлен курсор в редакторе при прокрутке<br>- Исправлено дублирование заметок<br>- Исправлен диалог с удалением напоминания<br>- Различные улучшения и исправления",
-"link":"https://github.com/JollyDeveleoper/notelint/blob/master/updates/1430-1.apk?raw=true"
+"version":"3.0.0",
+"changelog":"- Синхронизация с Google Drive<br>- Новое меню в редакторе<br>- Различные улучшения и исправления<br><br>А так же много всего другого",
+"link":"https://github.com/JollyDeveleoper/notelint/releases/download/3.0/Notelint_3.0.0.apk"
 }
